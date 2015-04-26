@@ -30,7 +30,7 @@ BMI >=30 : Obese
 ## Shiny Web
 
 <div style='text-align: center;'>
-    <img height='420' src='./assets/img/shiny.png' />
+    <img height='420' src='https://github.com/ajxster/DDD/blob/gh-pages/assets/img/shiny.PNG?raw=true' />
 </div>
 
 https://ajxster.shinyapps.io/bmip/
@@ -61,7 +61,7 @@ BMI (result) optimal weight
 The details for server.R
 
 <div style='text-align: center;'>
-    <img height='240' src='./assets/img/code.png' />
+    <img height='240' src='./assets/img/code.PNG' />
 </div>
 
 
