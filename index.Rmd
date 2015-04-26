@@ -30,7 +30,7 @@ BMI >=30 : Obese
 ## Shiny Web
 
 <div style='text-align: center;'>
-    <img height='420' src='shiny.png' />
+    <img height='420' src='./assets/img/shiny.png' />
 </div>
 
 https://ajxster.shinyapps.io/bmip/
@@ -42,7 +42,7 @@ https://ajxster.shinyapps.io/bmip/
 The BMI is an attempt to quantify the amount of soft tissue mass (muscle plus fat) in an individual, and then categorize that person as underweight, normal weight, overweight, or obese based on that value.
 
 <div style='text-align: center;'>
-    <img height='160' src='calc.png' />
+    <img height='160' src='./assets/img/calc.png' />
 </div>
 
 Gender <- Female
@@ -61,7 +61,7 @@ BMI (result) optimal weight
 The details for server.R
 
 <div style='text-align: center;'>
-    <img height='240' src='code.png' />
+    <img height='240' src='./assets/img/code.png' />
 </div>
 
 
